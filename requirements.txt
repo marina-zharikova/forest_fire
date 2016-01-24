@@ -1,0 +1,8 @@
+Django==1.6.5
+django-modeltranslation==0.7.3
+south==1.0
+psycopg2
+django-paintstore==0.1.2
+simple-translation==0.8.6
+django-databrowse==1.2
+django-grappelli==2.4.5
